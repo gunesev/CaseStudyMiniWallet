@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CaseStudy.Data/CaseStudy.Data/obj
+/CaseStudy.MiniWalletService.Api/bin/Debug/net6.0
+/CaseStudy.MiniWalletService.Api/obj
+/CaseStudy.Data/CaseStudy.Data/bin/Debug/net6.0
